@@ -10,7 +10,7 @@ While our civilization still discusses the puzzle, I have tried to answer a more
 
 The plot of ship shows a visual of the ship with Y% parts changed, and the density plot shows the distribution of the number of changes at X% per change that the simulation took to replace the Y% of the parts.
 
-The app is hosted at: 
+The app is hosted at:  https://ashwinijha.shinyapps.io/Ship_of_Theseus/
 
 Those who are interested in understanding the details of the simulation are welcome to look at the code behind the app in this GitHub repository.
 
